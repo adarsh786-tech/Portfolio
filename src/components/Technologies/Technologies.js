@@ -10,7 +10,7 @@ const Technologies = () =>  (
       <br/>
       <SectionTitle>Technologies</SectionTitle>
       <SectionText>
-        I have worked on Mobile technologies like Android and Flutter.
+        I have worked on different technologies and currently upskilling myself on new technologies.
       </SectionText>
       <List>
         <ListItem>
