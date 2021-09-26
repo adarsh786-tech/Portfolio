@@ -13,7 +13,7 @@ const Hero = () => (
         <SectionTitle>
           Mihir Adarsh
         </SectionTitle>
-        I'm a developer who specialize in building and developing applications to enhance User Experience. Currently, I'm focussed on upskilling myself by learning new Web Technologies
+        I'm a developer who specialises in building and developing applications to enhance User Experience. Currently, I am focussed on upskilling myself by learning new Web Technologies
       </SectionText>
       <Button size = "30dp" onClick = {() => window.location = 'https://drive.google.com/file/d/1QizbM0_7uadkyJh0s9lsz32DdzBUX3TT/view?usp=sharing'}>Download Resume</Button>
       
