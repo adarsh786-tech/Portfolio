@@ -1,5 +1,5 @@
 import React from 'react';
-import ParticleBackground from '../Animation/ParticleBackground';
+// import ParticleBackground from '../Animation/ParticleBackground';
 import { Section, SectionSubText, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
