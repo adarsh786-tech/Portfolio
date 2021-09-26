@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import Navbar from '../Hamburger/Nav';
+// import Navbar from '../Hamburger/Nav';
 import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { DiDrupal } from 'react-icons/di';
 import { SiLeetcode, SiCodechef, SiHackerrank, SiAboutDotMe} from 'react-icons/si';
@@ -8,7 +8,7 @@ import {VscProject} from 'react-icons/vsc'
 import {RiContactsBookFill} from 'react-icons/ri'
 import {GrTechnology, GrWorkshop} from 'react-icons/gr'
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
-import {StaticRouter as Router, Switch, Route} from 'react-router-dom';
+// import {StaticRouter as Router, Switch, Route} from 'react-router-dom';
 
 const Header = () =>  (
   <Container>
