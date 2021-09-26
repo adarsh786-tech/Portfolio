@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLinks } from './AcomplishmentsStyles';
+// import { ExternalLinks } from './AcomplishmentsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { Box, Boxes, BoxNum, BoxText, BoxTextBulletPoints } from './AcomplishmentsStyles';
 import Button from '../../styles/GlobalComponents/Button';
