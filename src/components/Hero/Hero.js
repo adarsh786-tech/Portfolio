@@ -15,7 +15,7 @@ const Hero = () => (
         </SectionTitle>
         I'm a developer who specialises in building and developing applications to enhance User Experience. Currently, I am focussed on upskilling myself by learning new Web Technologies
       </SectionText>
-      <Button size = "30dp" onClick = {() => window.location = 'https://drive.google.com/file/d/1GH_N-OF8vw_J6CAS5KxbBPSYgoELENZ3/view?usp=sharing'}>Download Resume</Button>
+      <Button size = "30dp" onClick = {() => window.location = 'https://drive.google.com/file/d/1T6NZJ24g_iF6qZWeysi7BNnoem5YyDfo/view?usp=sharing'}>Download Resume</Button>
       
     </LeftSection>
   </Section>
